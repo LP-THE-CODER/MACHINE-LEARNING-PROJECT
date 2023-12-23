@@ -43,7 +43,7 @@ To run the analysis, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/layoffs-data-analysis.git
+   git clone https://github.com/LP-THE-CODER/layoffs-data-analysis.git
    cd layoffs-data-analysis
    ```
 
