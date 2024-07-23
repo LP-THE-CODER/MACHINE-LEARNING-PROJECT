@@ -13,7 +13,7 @@ Analyze layoffs data to gain insights into the impact on various companies.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
